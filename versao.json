@@ -1,0 +1,6 @@
+{
+  "versao": "1.4.0",
+  "url_download": "https://github.com/eliasqueiroz-dotcom/dre-forecast-releases/releases/latest",
+  "notas": "Cancelar geração, demonstração embarcada, Excel sem gridlines, meses em português e gráfico Receita x Margem.",
+  "versao_minima_suportada": "1.0.0"
+}
