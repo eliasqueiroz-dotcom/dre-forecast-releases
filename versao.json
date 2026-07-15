@@ -1,6 +1,6 @@
 {
-  "versao": "1.5.0",
+  "versao": "1.6.0",
   "url_download": "https://github.com/eliasqueiroz-dotcom/dre-forecast-releases/releases/latest",
-  "notas": "Canal de atualização, opção de ignorar o último mês parcial, correções de robustez e fix da janela em telas com escala de DPI diferente de 100%.",
+  "notas": "Licenciamento: trial gratuito de 30 dias, depois licença anual (100% offline, sem servidor). Tela de Licença mostra status e Código da Máquina.",
   "versao_minima_suportada": "1.0.0"
 }
