@@ -1,6 +1,6 @@
 {
-  "versao": "1.6.0",
+  "versao": "1.7.0",
   "url_download": "https://github.com/eliasqueiroz-dotcom/dre-forecast-releases/releases/latest",
-  "notas": "Licenciamento: trial gratuito de 30 dias, depois licença anual (100% offline, sem servidor). Tela de Licença mostra status e Código da Máquina.",
+  "notas": "DRE no padrao contabil brasileiro (art. 187): EBITDA agora exclui Depreciacao/Amortizacao (linha propria), Deducoes da Receita separadas da Receita Bruta e Despesas desdobradas em Vendas x Administrativas x Outras.",
   "versao_minima_suportada": "1.0.0"
 }
